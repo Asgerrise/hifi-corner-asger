@@ -47,5 +47,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asgerrise/hifi-corner-asger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Asgerrise/hifi-corner-asger/issues"
+  },
+  "homepage": "https://github.com/Asgerrise/hifi-corner-asger#readme",
   "description": ""
 }
