@@ -106,8 +106,5 @@ dist
 # Temporary files
 tmp
 
-# Distribution files
-dist
-
 # VScode settings
 .vscode
